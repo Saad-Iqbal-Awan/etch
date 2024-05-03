@@ -1,6 +1,17 @@
+the mouse-enter event listener works. 
+
+
 Break down problem 
+
+
+1. Figure out how to change color of element in grid. 
+mouse-enter event listener. 
+
+2. Dynamically add 16 boxes via js. 
+
 
 Create a 2 x 2 grid 
 put it in flexbox 
 put up event listener - for when mouse enters div 
 Run function that changes color of the div when once mouse enters div 
+
