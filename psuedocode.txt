@@ -8,6 +8,24 @@ Break down problem
 mouse-enter event listener. 
 
 2. Dynamically add 16 boxes via js. 
+Implemented for loop and boxes of equal size 
+are being implemented 
+
+3. Add event listener to all boxes. 
+using forEach method added event listener to 
+all boxes 
+
+4. Make height and width dynamic 
+    a. Get variable from user and square it. 
+Get variable = i 
+multiply i * i 
+Start with variable 4 -
+
+    b. Can either fix the height and width of 
+    container and divide it equally 
+    or can make the height and width of boxes dynamic.
+    
+
 
 
 Create a 2 x 2 grid 
