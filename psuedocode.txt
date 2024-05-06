@@ -23,7 +23,33 @@ Start with variable 4 -
 
     b. Can either fix the height and width of 
     container and divide it equally 
-    or can make the height and width of boxes dynamic.
+fixed the height and width of container. Divided it 
+by user input to divide equally. 
+each box had height = total height divided by boxes 
+width = total width divided by number of boxes
+
+5. Add flex to body and auto margin left and right 
+
+6. added function to prompt - if correct value 
+(under 100) then function start takes place 
+
+7. if node list for boxes is not empty or is true, 
+then remove boxes 
+
+8. Then create boxes with width, height and opacity of 0
+
+9. using foreach to set up event listeners on all elements
+with class box 
+
+10. function to run is 
+get opacity 
+change it to number 
+if opacity less than 1 increment by 0.1
+set new opacity using box.style.opacity 
+else just use box.style.backgroundColor to set color
+tinked with math.floor(math.random() * 256) 
+this got random rgb values 
+used backticks ` to set rgb values for random colors. 
     
 
 
